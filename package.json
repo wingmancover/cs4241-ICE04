@@ -1,6 +1,14 @@
 {
+  "name": "cs4241-ICE04",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.19.2",
+    "svelte": "^4.2.15",
+    "vite": "^5.2.9",
     "vite-express": "^0.16.0",
     "ws": "^8.16.0"
   }
